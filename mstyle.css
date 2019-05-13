@@ -28,12 +28,12 @@ a.rollover:hover {
 	margin-top: 63px;
 	box-shadow: 4px 1px 30px black;
 	position: absolute;
-	top: 110%;
+	top: 90%;
 }
 .windo {
 	border: 0px;
 	background-color: black;
-	width: 100%;
+	width: 99%;
 	box-shadow: 4px 1px 30px black;
 	position: relative;
 	top: -10px;
@@ -84,6 +84,7 @@ a.rollover:hover {
 	color: #333;
 	text-align: center;
 	border-radius: 10px;
+	font-size: 10px;
 }
 .round {
     border-radius: 100px; 
@@ -113,17 +114,16 @@ h3{
 	box-shadow: 0 0 1px Aqua;
 	width: 150px;
 	height: 30px;
-	margin-left: 45%;
+	margin-left: 50%;
 	line-height: 30px;
 	margin-top:15px;
 	margin-bottom:10px;
 	color: #333333;
 }
 .lis{
-	background: radial-gradient(white, Aqua);
+	background: radial-gradient(Aqua, white);
 	border-radius: 45px;
-	margin-left: 5%;
-	width: 87%;
+	width: 90%;
 }
 .menu{
 	text-decoration: none;
